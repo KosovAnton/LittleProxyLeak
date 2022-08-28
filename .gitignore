@@ -1,0 +1,25 @@
+.iml
+.DS_Store
+# User-specific
+.gradle/*
+.idea/*
+.allure/*
+build/*
+out/*
+workspace.xml
+gradle/*
+./gradlew
+./gradlew.bat
+
+# logging files
+src/main/resources/Logs/*
+log4j2Config.xml
+
+.classpath
+.project
+*.settings/
+allure-results/
+cm
+gradlew
+gradlew.bat
+/.idea/
